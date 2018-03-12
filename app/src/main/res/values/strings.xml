@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Somme de deux nombres</string>
+    <string name="resultat">Resultat</string>
+    <string name="additionner">Additionner</string>
+    <string name="soustraire">Soustraire</string>
+    <string name="multiplier">Multiplier</string>
+    <string name="diviser">Diviser</string>
+
+
+</resources>
